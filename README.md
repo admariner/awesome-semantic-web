@@ -871,6 +871,7 @@ OS - OpenSource
 
 ### Go
 
+- [rdf-go](https://github.com/geoknoesis/rdf-go) - Native golang codecs for latest RDF 1.0, 1.1 and 1.2 formats (RDF, Turtle , NTriples, N-Quads, Trig, JSON-LD 1.1)
 - [rdf2go](https://github.com/deiu/rdf2go) - Native golang library for RDF.
 - [knakk/rdf](https://github.com/knakk/rdf) - RDF library for Go.
 - [rdfkit-go](https://github.com/dpb587/rdfkit-go) - decoders, encoders, and other RDF primitives for Go.
